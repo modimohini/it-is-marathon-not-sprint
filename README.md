@@ -1,1 +1,1 @@
-# it-is-marathon-not-sprint
+# Fun Game
